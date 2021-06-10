@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom';
 import web from '../src/assets/header_img.svg';
 
 
+
 const CommonPage =(props)=>{
   return(
     <React.Fragment>
