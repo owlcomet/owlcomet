@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 const Card =(props)=>{
   return(
-    <>
+    <React.Fragment>
 
                         {/* card */}
                         <div className="col-md-4 col-10 mx-auto">
@@ -19,7 +19,7 @@ const Card =(props)=>{
 
 {/* end here */}
                    
-    </>
+    </React.Fragment>
   )
 }
 export default Card;

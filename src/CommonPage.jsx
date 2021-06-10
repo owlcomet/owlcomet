@@ -5,7 +5,7 @@ import web from '../src/assets/header_img.svg';
 
 const CommonPage =(props)=>{
   return(
-    <>
+    <React.Fragment>
 <section id="header" className="d-flex align-items-center">
       <div className="container-fluid nav_bg">
             <div className="row">
@@ -30,7 +30,7 @@ const CommonPage =(props)=>{
             
             </div> 
 </section>
-    </>
+    </React.Fragment>
   )
 }
 export default CommonPage;
