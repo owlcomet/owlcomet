@@ -4,7 +4,7 @@ import logo from '../src/assets/logo.svg';
 
 const Navbar=()=>{
     return (
-        <>
+        <React.Fragment>
         <div className="container-fluid nav_bg">
             <div className="row">
                 <div className="col-10 mx-auto">
@@ -31,6 +31,9 @@ const Navbar=()=>{
          <li className="nav-item">
           <NavLink exact activeClassName="menu_active" className="nav-link" to="/contact">Contact</NavLink>
         </li>
+        <li className="nav-item">
+          <NavLink exact activeClassName="menu_active" className="nav-link" to="/helloWorld">Launch Darkly</NavLink>
+        </li>
       </ul>
      
     </div>
@@ -41,7 +44,7 @@ const Navbar=()=>{
             </div>
             
             </div> 
-        </>
+        </React.Fragment>
     )
 }
 export default Navbar;

@@ -3,14 +3,16 @@ import web from '../src/assets/header_img.svg';
 import CommonPage from './CommonPage';
 
 
+
 const Home =()=>{
   return(
-     <>
+     <React.Fragment>
+
 <CommonPage name="One-stop solutions at " imgSrc={web} visit="/service" btnName="Get Started" 
 subText="We focus on the nature of your business and what you need for a fruitful online presence to ultimately push revenues further up."
 companyName="पंछी.com"
 />
-    </>
+    </React.Fragment>
   )
 }
 export default Home;

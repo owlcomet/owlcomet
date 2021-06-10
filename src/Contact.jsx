@@ -23,7 +23,7 @@ alert(`A Person whos name is ${data.fullName} & mobile number ${data.phone} with
     }
 
   return(
-    <>
+    <React.Fragment>
 <div className="my-5">
     <h1 className="text-center">Contact Us</h1>
      <div className="container mb-5 contact_div">
@@ -60,7 +60,7 @@ alert(`A Person whos name is ${data.fullName} & mobile number ${data.phone} with
             
             </div> 
 </div>
-    </>
+    </React.Fragment>
   )
 }
 export default Contact;
