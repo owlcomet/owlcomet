@@ -11,7 +11,6 @@ import Footer from './Footer';
 import HelloWorld from './helloWorld';
 import {Switch ,Route , Redirect} from 'react-router-dom';
 
-
 const App =()=>{
   return(
     <div>
