@@ -1,14 +1,21 @@
 ##running version of this app 
 
-# BONJOUR !
-Panchhi is a serviced based organization , focus on the nature of your business and what you need for a fruitful online presence to ultimately push revenues further up..
 
+# BONJOUR ! From Owlcomets
+Owlcomets is a serviced based organization , focus on the nature of your business and what you need for a fruitful online presence to ultimately push revenues further up..
 
-You can get more details on [पंछी.com](https://panchhi.herokuapp.com/)
+You can get more details on [owlcomets](https://owlcomet.herokuapp.com//)
 
-Click ⭐if you like the project. Pull Request are highly appreciated. Follow me @aviibuzz for technical updates.
+Click ⭐if you like the project.
 
-### Interested in working with me? Get in [touch](https://aviibuzz.github.io/aviibuzz/#contact) and I’d be happy to talk to you.
+Pull Request are highly appreciated. Follow Us @owlcomets for technical updates.
+
+### Interested in working with me? Get in [touch](https://docs.google.com/forms/d/e/1FAIpQLSfbICXr0XBAUIqFQD3NVGz-uyLUUrEFb-e9scZ3MRLqnVqwpQ/viewform) and We’d be happy to talk to you.
+
+Do give us a review at [google](https://business.google.com/reviews/l/05497579808041782071)
+
+Join us on 
+discord community [here](https://discord.gg/XyfBS944Xx)
 
  ***
 ## Tech Stakes used in this project
