@@ -29,6 +29,8 @@ discord community [here](https://discord.gg/XyfBS944Xx)
 
 ![get in touch](https://drive.google.com/file/d/1FyyNZRfiup5W2uqK5v03PbcUpjl-3Z8u/view?usp=sharing)
 
+![logo](https://photos.app.goo.gl/Cf7uNEjSqKkX8B5z7 "owlcomets logo")
+
 
 # Intoduction to this App
 
