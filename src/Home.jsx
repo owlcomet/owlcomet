@@ -8,7 +8,7 @@ const Home =()=>{
      <>
 <CommonPage name="One-stop solutions at " imgSrc={web} visit="/service" btnName="Get Started" 
 subText="We focus on the nature of your business and what you need for a fruitful online presence to ultimately push revenues further up."
-companyName="पंछी.com"
+companyName="owlcomets"
 />
     </>
   )
