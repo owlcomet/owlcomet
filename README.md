@@ -42,7 +42,7 @@ Steps to run it on your local:
 
 Take a pull from git repo 
 
-### `git clone https://github.com/aviibuzz/panchhi.git`
+### `git clone url`
 
 Install all Dependencies
 
